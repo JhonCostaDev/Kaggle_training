@@ -56,3 +56,6 @@ coverage.xml
 # MacOS or Linux system files
 .DS_Store
 Thumbs.db
+
+# Csv files
+*.csv
